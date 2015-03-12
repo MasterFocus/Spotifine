@@ -1,3 +1,10 @@
+# !!! WARNING !!!
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+The latest version of Spotify (1.0.1.1060) makes my code completely useless!  
+If you want to use my code, make sure you don't update your Spotify!**  
+The version I previously had installed (0.9.15.17.g87efe634) worked just fine.  
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
 # Spotifine
 * This program is currently usable, but also a work-in-progress (probably nothing bad will happen, but use it at your own risk)
 * Speaking about liability... this program is licensed under **GNU AGPL v3** (check the *LICENSE* file for more information - it's a quick read, I promise!)
