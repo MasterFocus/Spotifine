@@ -1,16 +1,14 @@
 # !!! WARNING !!!
-**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**  
-Many people are **unhappy** with the **latest version of Spotify (1.0.1.1060)**.  
-Among many other bad/questionable things, **it also breaks my code**.
-But I can assure my code works with the previous version (**0.9.15.17.x**).
-So, here's a related link if you wish to **downgrade** and/or find more about it:  
-https://www.reddit.com/r/spotify/comments/2y6a68/spotify_update_1011060gc75ebdfd_mega_discussion/cp6z9ba
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+The latest version of Spotify (1.0.1.1060) makes my code completely useless!  
+If you want to use my code, make sure you don't update your Spotify!**  
+The version I previously had installed (0.9.15.17.g87efe634) worked just fine.  
 **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
 
 # Spotifine
 * This program is currently usable, but also a work-in-progress (probably nothing bad will happen, but use it at your own risk)
 * Speaking about liability... this program is licensed under **GNU AGPL v3** (check the *LICENSE* file for more information - it's a quick read, I promise!)
-* Use AHK **1.0.x** to run _Spotifine.ahk_, _**NOT**_ AHK **1.1.x** (see "_**Known Issues**_")
+* Use AHK 1.**0**.x to run _Spotifine.ahk_, **NOT** AHK 1.**1**.x (see "_**Known Issues**_")
 * This program uses _nircmd.exe_ and _Notify.ahk_, which were not created by me (see "_**Resources**_")
 
 # Description
