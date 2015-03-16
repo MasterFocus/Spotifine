@@ -1,10 +1,10 @@
 # !!! WARNING !!!
 **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**  
 Many people are **unhappy** with the **latest version of Spotify (1.0.1.1060)**.  
-Among many other bad/questionable things, **it also breaks my code**.
-But I can assure my code works with the previous version (**0.9.15.17.x**).
+Among many other bad/questionable things, **it also breaks my code**.  
+But I can assure my code works with the previous version (**0.9.15.17.x**).  
 So, here's a related link if you wish to **downgrade** and/or find more about it:  
-https://www.reddit.com/r/spotify/comments/2y6a68/spotify_update_1011060gc75ebdfd_mega_discussion/cp6z9ba
+https://www.reddit.com/r/spotify/comments/2y6a68/spotify_update_1011060gc75ebdfd_mega_discussion/cp6z9ba  
 **!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
 
 # Spotifine
